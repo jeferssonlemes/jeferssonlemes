@@ -1,35 +1,43 @@
-### 🚀 Full Stack Developer | AI Integration Specialist  
+### 🚀 Full Stack Developer | AI & Cloud Integration Specialist  
 
-Hi there! 👋 I'm **Jefersson Lemes**, a **Full Stack Developer** with over **10 years of experience** in **software development, infrastructure management, and AI-driven integrations**. I have a strong background in **cloud computing, automation, and enterprise software solutions**.  
+Hi there! 👋 I'm **Jefersson Lemes**, a **Full Stack Developer** with over **10 years of experience** in **software development, cloud infrastructure, and AI-driven integrations**. I have a deep expertise in **backend, frontend, DevOps, database management, and automation** to create high-performance and scalable applications.  
 
 ## 🔹 About Me  
 - 💻 **10+ years** of experience in **software development & cloud infrastructure**  
-- 🖥️ **Extensive experience in Desktop Application Development**, building high-performance solutions for Windows  
-- 🤖 Passionate about **AI-driven integrations and automation**  
-- 🏗️ Skilled in **Azure DevOps Pipelines & CI/CD** for enterprise applications  
-- ☁️ Deep knowledge in **Cloud & Infrastructure Management (Azure & AWS)**  
-- 🚀 Enthusiastic about **scalable and high-performance software solutions**  
+- 🤖 **AI Integration Specialist**, experienced in managing **OpenAI APIs** and AI-powered applications  
+- 🏗️ **DevOps & Cloud Expert**, managing **Azure DevOps Pipelines, S3, Oracle Cloud, and AWS**  
+- ☁️ **Infrastructure & Cloud Management**, with expertise in **Docker, Kubernetes, and Nginx**  
+- 🖥️ **Desktop Application Developer**, skilled in **WPF, WinForms, and Electron**  
+- 🚀 Enthusiastic about **high-performance, scalable solutions for web, cloud, and desktop applications**  
 
 ## 🔧 Tech Stack  
 ### 🔹 **Programming Languages & Frameworks:**  
-- **Backend:** C# (.NET), Node.js  
-- **Frontend:** React.js  
+- **Backend:** C# (.NET), Node.js, Python  
+- **Frontend:** React.js, TypeScript, Angular, Next.js  
 - **Desktop Applications:** WPF, WinForms, Electron  
+- **Mobile Development:** React Native, Flutter  
 
-### 🔹 **Databases:**  
-- MongoDB | MySQL | PostgreSQL | SQLite  
+### 🔹 **Databases & Storage:**  
+- Relational: MySQL | PostgreSQL | SQLite | SQL Server  
+- NoSQL: MongoDB | Redis | Firebase  
+- Cloud Storage: **S3 (AWS), Oracle Cloud Object Storage**  
 
 ### 🔹 **Messaging & Real-time Communication:**  
-- RabbitMQ | SignalR  
+- RabbitMQ | SignalR | Kafka | WebSockets | MQTT  
 
 ### 🔹 **DevOps & Infrastructure:**  
-- **Cloud:** Azure, AWS  
-- **CI/CD Pipelines:** Azure DevOps, GitHub Actions  
-- **Containers & Reverse Proxy:** Docker, Nginx  
-- **Caching & Performance:** Redis  
+- **Cloud Providers:** Azure | AWS | Oracle Cloud  
+- **CI/CD Pipelines:** Azure DevOps | GitHub Actions | GitLab CI  
+- **Containers & Orchestration:** Docker | Kubernetes | Helm  
+- **Reverse Proxy & Load Balancing:** Nginx | Traefik  
 
-### 🔹 **Automation & AI Integration:**  
-- n8n | AI-driven development  
+### 🔹 **AI & Automation:**  
+- **AI APIs & LLMs:** OpenAI API | LangChain | TensorFlow | Hugging Face  
+- **Automation & Workflows:** n8n | Zapier | Airflow  
+
+### 🔹 **Cybersecurity & Monitoring:**  
+- OAuth2 | JWT | Keycloak | Identity Server  
+- Log & Monitoring: Prometheus | Grafana | ELK Stack (Elasticsearch, Logstash, Kibana)  
 
 ## 📫 Let's Connect  
 - 🔗 [LinkedIn](www.linkedin.com/in/jefersson-lemes-43a528162)  
@@ -37,4 +45,4 @@ Hi there! 👋 I'm **Jefersson Lemes**, a **Full Stack Developer** with over **1
 
 ---
 
-🚀 Passionate about **building, automating, and optimizing** tech solutions for web, cloud, and desktop applications! Let's create something amazing!  
+🚀 Passionate about **building, automating, and optimizing** tech solutions for web, cloud, AI, and desktop applications! Let's create something amazing!  
