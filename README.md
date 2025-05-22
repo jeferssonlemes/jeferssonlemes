@@ -3,7 +3,7 @@
 Hi there! 👋 I'm **Jefersson Lemes**, a **Full Stack Developer** with over **10 years of experience** in **software development, cloud infrastructure, and AI-driven integrations**. I have a deep expertise in **backend, frontend, DevOps, database management, and automation** to create high-performance and scalable applications.  
 
 ## 🔹 About Me  
-- 💻 **10+ years** of experience in **software development & cloud infrastructure**  
+- 💻 **7+ years** of experience in **software development & cloud infrastructure**  
 - 🤖 **AI Integration Specialist**, experienced in managing **OpenAI APIs** and AI-powered applications  
 - 🏗️ **DevOps & Cloud Expert**, managing **Azure DevOps Pipelines, S3, Oracle Cloud, and AWS**  
 - ☁️ **Infrastructure & Cloud Management**, with expertise in **Docker, Kubernetes, and Nginx**  
