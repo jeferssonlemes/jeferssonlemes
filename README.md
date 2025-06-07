@@ -40,7 +40,7 @@ Hi there! 👋 I'm **Jefersson Lemes**, a **Full Stack Developer** with over **1
 - Log & Monitoring: Prometheus | Grafana | ELK Stack (Elasticsearch, Logstash, Kibana)  
 
 ## 📫 Let's Connect  
-- 🔗 [LinkedIn](www.linkedin.com/in/jefersson-lemes-43a528162)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jefersson-lemes)  
 - 📧 Email: **jeferssondev@gmail.com**
 
 ---
